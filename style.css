@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+
+.container-fluid{
+    height: 100vh;
+}
+
+.custom-h1{
+    height: calc(100% / 3);
+}
